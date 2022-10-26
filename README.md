@@ -1,14 +1,13 @@
 <h2>Hi 👋, I'm Thiago</h2>
 <p>Welcome to my profile! I'm currently working as an iOS Developer at <a href="https://developeracademy.pucpr.br/">Apple Developer Academy PUCPR</a> based in Curitiba, Brazil 🇧🇷. I am a Fullstack developer that loves reverse engineering websites and teaching others.</p>
 
-<h3>Where to find me</h3>
+<h2>Where to find me</h2>
 <p>
   <a href="https://github.com/thihxm" target="_blank"><img alt="Github" src="https://img.shields.io/badge/thihxm-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/thiago-hx-medeiros/?locale=en_US"><img src="https://img.shields.io/badge/thiago--hx--medeiros-0077B5?style=for-the-badge&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/thiago-hx-medeiros/?locale=en_US" alt="LinkedIn Badge"></a>
 </p>
 
-<h3>Things I code with</h3>
-
+<h2>Tools I use</h2>
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-ff5622?style=flat-square&logo=swift&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -29,6 +28,8 @@
   <img alt="Unity" src="https://img.shields.io/badge/-unity-black?style=flat-square&logo=unity&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
+
+<h2>My Github stats</h2>
 
 [![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=thihxm&show_icons=true&count_private=true)](https://github.com/thihxm)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thihxm&layout=compact&count_private=true)](https://github.com/thihxm)
 
