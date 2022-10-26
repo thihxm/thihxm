@@ -1,4 +1,4 @@
-[![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=thihxm&show_icons=true)](https://github.com/thihxm)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thihxm&layout=compact)](https://github.com/pastre)
+[![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=thihxm&show_icons=true&count_private=true)](https://github.com/thihxm)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thihxm&layout=compact&count_private=true)](https://github.com/thihxm)
 
 <a href="https://www.codewars.com/users/thihxm/stats"><img src="https://www.codewars.com/users/thihxm/badges/large"></a>
 
